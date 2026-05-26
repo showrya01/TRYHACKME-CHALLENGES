@@ -71,6 +71,7 @@ I find there is a RecuitX was running on the port 80 . Our main target is web so
 ## Gobuster Scan
 
 ### Command
+
 ```bash 
 gobuster dir -u http://10.49.137.190 -w /usr/share/wordlists/dirbuster/directory-list-2.3-small.txt -x php -x php 
 ```
@@ -101,7 +102,7 @@ Progress: 175328 / 175330 (100.00%)
 ===============================================================
 Finished
 ===============================================================
-
+```
 
 ### Analysis
 
