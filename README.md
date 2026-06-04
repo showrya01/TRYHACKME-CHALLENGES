@@ -1,2 +1,2 @@
-#Tryhackme-challenge
+# Tryhackme-challenges
 
